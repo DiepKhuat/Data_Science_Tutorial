@@ -1,4 +1,0 @@
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
-mkdir new_folder
-touch new_folder/README.md
